@@ -26,7 +26,7 @@ The Luhn Algorithm is a simple checksum formula used to validate a variety of id
 
 2. Run the application:
    ```bash
-   python main.py
+   python Luhn-Algorithm.py
    ```
 
 ### Basic Usage
